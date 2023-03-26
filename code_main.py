@@ -1,9 +1,13 @@
 #Adding a new function for git
 
 """
+git config user.name 'user_name'
+git config user.email 'user_email'
+git remote add origin 'url'
 git add file_name
 git commit -m 'comment'
 git push -u origin master
+
 """
 
 # Control Structures and Functions
