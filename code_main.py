@@ -1,3 +1,11 @@
+#Adding a new function for git
+
+"""
+git add file_name
+git commit -m 'comment'
+git push -u origin master
+"""
+
 # Control Structures and Functions
 Control structures are the essence of programming; they help computers do what they do best: automate repetitive tasks intelligently. The most common control structures are if-else statements, for and while loops, and list and dictionary comprehensions. This session will cover all these concepts.
 
