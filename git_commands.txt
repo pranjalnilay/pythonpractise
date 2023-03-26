@@ -1,0 +1,16 @@
+"""git config user.name 'user_name'
+git config user.email 'user_email'
+git remote add origin 'url'
+git add file_name
+git commit -m 'comment'
+git push -u origin master
+
+git log 
+got log --oneline
+
+git revert head
+git reset --hard 'commit_id'
+
+git branch
+git checkout -b 'new branch_name'
+"""
